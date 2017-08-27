@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+// php script that accepts a name from user and prints that name along with a random number between 6 and 15.
 <html>
 <head>
    <title>Challenge</title>
